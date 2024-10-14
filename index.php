@@ -3,7 +3,6 @@
     $alumno = "Angel Adrian Pérez Villanueva";
     $numero_control = "19660201";
     $carrera = "Ingeniería en Sistemas Computacionales";
-
     // Datos de la escuela
     $campus = "TecNM Campus Matehuala";
     $ubicacion = "Carretera 57 Km 5, Matehuala, San Luis Potosí, México, C.P. 78746";
